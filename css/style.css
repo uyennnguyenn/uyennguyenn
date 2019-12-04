@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
+
+body {
+  background-color:black;
+  font-family: 'Indie Flower', cursive;
+  text-align:Center;
+}
+
+h1 {
+  color: White;
+  font-size: 50pt;
+  text-align:Center;
+
+}
+
+h2 {
+  color:White;
+  font-size:30pt;
+}
+
+h3 {
+  Color: white;
+  text-align: justify;
+}
+
+h4 {
+  color: white;
+}
+p {
+  color: black;
+  background-color: white;
+  font-size:50pt;
+
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  font-size: 30pt;
+}
+
+a:hover {
+  background-color: yellow;
+}
+
+#one {
+background-color: lightyellow;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+
+#two {
+background-color: white;
+float: top
+margin-top: 50px;
+margin-bottom: 50px;
+}
+
+#three {
+background-color: pink;
+float: top;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+
+#four {
+background-color: pink;
+float: top;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+
+#five {
+background-color: pink;
+float: top;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+
+#six {
+background-color: white;
+float: top;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+
+#seven {
+background-color: white;
+float: top;
+margin-top: 300px;
+margin-bottom: 300px;
+}
+
+#eight {
+background-color: white;
+float: top;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+
+#nine {
+background-color: white;
+float: top;
+margin-top: 300px;
+margin-bottom: 300px;
+}
+
+#ten {
+  float: top;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+#eleven {
+  float: top;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+#tewelve {
+  float: top;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+#thirdteen {
+  float: top;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+
+.red-text {
+  color: red;
+}
